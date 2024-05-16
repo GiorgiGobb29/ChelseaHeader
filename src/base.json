@@ -1,0 +1,22 @@
+[{
+    "name" : "John" ,
+    "surname" : "Doe",
+    "occupation" : "Web developer",
+    "description" : "lorem ipsum",
+    "skills" : {
+        "basic" : "HTML",
+        "design": "css"
+
+    }
+},
+{
+    "name" : "Jane" ,
+    "surname" : "Doe",
+    "occupation" : "Web developer",
+    "description" : "Pain Itself",
+    "skills" : {
+        "basic" : "adobe Illustrator",
+        "design": "Figma"
+
+    }
+}]

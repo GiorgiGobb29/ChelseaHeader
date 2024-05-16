@@ -1,0 +1,42 @@
+.nav-item{
+    text-decoration: none;
+    color: #FFF;
+    padding: 20px;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+   
+}
+
+.nav{
+    display: flex;
+    padding: 0 50px;
+    justify-content: space-between;
+    background-color: darkblue;
+}
+
+.pages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+
+/* .nav-item:hover{
+
+} */
+
+.logo{
+    color: #FFF;
+    width: 60px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto 0;
+}
+
+.logo:hover{
+  cursor: pointer;
+}
